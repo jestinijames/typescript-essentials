@@ -1,0 +1,2 @@
+// ****** TYPE PREDICATE FUNCTION ******
+
